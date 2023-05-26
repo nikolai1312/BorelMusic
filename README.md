@@ -5,7 +5,7 @@
   
 ![BorelMusic](https://github.com/heitorgandolfi/desafioNewbies_toDo/assets/113437603/d25df21c-748e-4317-92c1-2a82d35098bd)
 
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPMENT&color=yellow&style=for-the-badge&"/> <img src="http://img.shields.io/static/v1?label=release%20date&message=????&color=green&style=for-the-badge"/> <img src="http://img.shields.io/static/v1?label=license&message=MIT&color=informational&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPMENT&color=yellow&style=for-the-badge&"/> <img src="http://img.shields.io/static/v1?label=release%20date&message=2023&color=green&style=for-the-badge"/> <img src="http://img.shields.io/static/v1?label=license&message=MIT&color=informational&style=for-the-badge"/>
   -----------------------
   
  </div>
@@ -71,13 +71,23 @@ Se você deseja contribuir com o desenvolvimento do BorelMusic, siga as etapas a
 
 <br>
 
-### **Tecnologias (até o momento):**
+### **Tecnologias:**
+
+- ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)
+
+- ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
+)
 
 - ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )
 
 - ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )
+
+- ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
+)
+
 - ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )
 
