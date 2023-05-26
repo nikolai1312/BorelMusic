@@ -79,6 +79,9 @@ Se você deseja contribuir com o desenvolvimento do BorelMusic, siga as etapas a
 - ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
 )
 
+- ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+)
+
 - ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )
 
